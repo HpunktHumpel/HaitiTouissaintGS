@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DistrictText_Citadelle -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 11/2/2018 1:42:50 PM -->
+<GameData>
+	<LocalizedText>
+		<!--Leader Name-->
+		<Row Tag="LOC_LEADER_LEU_LOUVERTURE_NAME" Language="en_US">
+			<Text>Toussaint Louverture</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LEU_LOUVERTURE" Language="en_US">
+			<Text>Your efforts towards freedom shall forever be remembered, François Dominique Toussaint-Louverture, artisan of Abolition. Lead the Mawons as they struggle to find freedom in the colonies, and mobilize them to bring liberty to those still under slavery. Build your Citadelles to protect the lands against the great Empires you will face, and promote Abolition within your isle to lead them to greatness. Truly you were born with the soul of a free man, oh great Louverture.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_LEADER_LEU_LOUVERTURE_NAME" Language="en_US">
+			<Text>Artisan of Abolition</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LEU_LOUVERTURE_DESCRIPTION" Language="en_US">
+			<Text>The Abolition project requires 50% less [icon_production] Production during Dark Ages; and upon completion unlocks the Government for Policy changes. Pillaging tiles with Luxury Resources grants a free Builder.</Text>
+		</Row>
+		<!--Capsules-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Louverture benefits from acquiring builders and turning them into Era Score while acquiring Envoys for City-States.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Haiti led by Louverture must focus on acquiring Builders whether through production or by pillaging Luxury Resources. Completing the Abolition project by expending Builders becomes very important as it allows you to acquire additional Envoys to suzerain City-States. If you acquire the ability of purchasing Builders with Faith, this can lead you to fully take advantage of Haiti Citadelle bonuses.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_TITLE" Language="en_US">
+			<Text>François Dominique Toussaint-Louverture</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_SUBTITLE" Language="en_US">
+			<Text>Governor-General of Saint-Domingue</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_QUOTE" Language="en_US">
+			<Text>I was born a slave, but nature gave me a soul of a free man.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Toussaint Louverture was a small slave owner (formerly enslaved) who famously became the initial leader of the Haitian Revolution. Despite this later prominence, there is very little accurate information of his early life, with his parents being unknown, as well as his date of birth, age, or even birthplace beyond “on some plantation at Haut de Cap in Saint-Domingue”. He is believed to have been well-educated and versed in both French (though his spelling was strictly phonetic) and Creole, familiar with Epictetus and possibly Machiavelli, as well as perhaps Abbé Raynal. He may have also received knowledge from Jesuit missionaries in medicine. However, besides theories and guesses, little is known for sure. He is known to have been a devout Roman Catholic, and it is unlikely to have accepted Vodou.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Though he was a slave in early life, he eventually became free in 1776 (this is a relatively new find - slaves could not get married, but a marriage certificate was discovered dated 1777. This was rather helpful in elucidating later correspondence because though he was previously believed to be a slave until the outbreak of revolution, some letters referenced him being free for twenty years) at the age of 33, though he presumably remained as a paid employee of the plantation he was previously enslaved on (now that’s employee retention). As an employee, he began to accumulate a fortune and acquired a small coffee plantation worked by a dozen slaves that he would retain until the outbreak of the Haitian Revolution.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In 1789, the black population of Haiti was inspired by the French Revolution, and very early in the process, Louverture participated in the leadership by discussing strategy and negotiating with the Spanish for supplies, as well as participating as a medic. Though he saw the rebellion as a chance to better the rights of slaves and spoke with royalist language initially, he used the language of freedom and equality increasingly often and radicalized to wanting the complete abolition of Slavery.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The entire revolution depicts Louverture moving farther and farther from his initial positions and more towards the image well-known today. Though he was originally a medic, he became the leader of an increasingly powerful revolutionary alliance throughout 1792. He learned to run an orderly camp and trained his men well and becoming an accomplished and charismatic military general. His initial alliance was with the Spanish in order to fight for the abolitionary cause, but in May of 1794 he joined the French in an effort to put an end to the Spanish threat to Saint-Domingue, as well as making inroads against British troops. By July of 1795, he had very successfully managed to mitigate the Spanish and British threats and turned his attention to governing.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>His triumphs allowed him to reestablish agriculture and keeping the peace, under the belief that the key to maintaining freedom for Haiti was economic viability. He used a mixture of diplomacy and force to return field hands to plantations, but regularly they would create small rebellions, fearing a return to slavery (Judging by the main Haitian civilopedia page, this happens quite often in Haiti). During this period, he also managed his political rivals, several of whom accused him of being a French confederate. He succeeded in defeating his opponents though, even as elections were held to choose representatives for the French National Assembly, despite having been accused of being a royalist, a counter-revolutionary, anti-independence, a republican, a revolutionary, and a firebrand all at once. Though he was asserted his authority, he assured the new French government that though he was loyal, abolition was of the highest importance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>For several months, Louverture was the de facto leader of Saint-Domingue, though a number of commissioners arrived in an effort by the French to undermine his power. He dealt with Britain and the United States in a number of treaties and profitable trade agreements (he was, in fact, interested in a trade agreement with England), proving his skills as a diplomat. He continued on his merry way, attempting to control every port to stave off assassinations (it’s a long story, involving one André Rigaud). Eventually, this escalated into a civil war called the War of Knives when Riguard sent troops to seize border towns. Louverture delegated most of the campaign to his prodigy, Jean-Jacques Dessalines (who definitely would not become incredibly important within the next four years. Nope.), and this civil war would claim the lives of thousands.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Meanwhile, in France, Napoleon Bonaparte had gained power and forced the passage of a new constitution subjecting the French Colonial Empire to special laws. Most colonies took this to mean that slavery would be reinstated, though Napoleon gave promises to the contrary, and confirmed Louverture as the Governor-General for Life of Saint-Domingue, though he forbade him from pursuing an invasion of Santo Domingo. Louverture decided that, yes, he had been ordered not to, but no, he was going to do it anyways. The invasion was succinct, and he imposed French law on the entire island of Hispaniola.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Louverture continued to overstep his boundaries with Napoleon, drafting a new constitution and put together a new constitutional assembly. Though he was careful not to explicitly declare independence from France and made the abolition of slavery his foremost priority, his actions were very damaging to France and he had finally gone too far.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>Napoleon sent his brother-in-law, Charles Leclerc, to Saint-Domingue to restore authority and perhaps to restore slavery. Though he was to seize control of the island “diplomatically,” he also had 20,000 troops under his command, undermining the whole “diplomacy” thing. Louverture’s plan was the raze the coastal ports, retreat to the mountains, and wait for the French forces to succumb to disease. In reality, though, it was too difficult to coordinate this, and it was bungled as the French occupied Santo Domingo. Both sides were shocked by the violent and inconclusive fighting, so Louverture rode to treat with Leclerc.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Louverture was betrayed (possibly by his own prodigy, the aforementioned and definitely-completely-unimportant-totally Jean-Jacques Dessalines) and Leclerc ended up arresting Louverture and deporting him to France. Toussaint Louverture warned his captors that the rebels would have revenge (somewhat undermined by the fact that it was those very rebels that sold him out), and he was sent back to France where he died of illness in prison. Jean-Jacques Dessalines finished the rebellion in 1803.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_LOUVERTURE_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>Today, Toussaint Louverture is remembered as a national symbol of Haiti, and as one of the best leaders it ever had - his rebellion was the only slave rebellion of the Americas that managed to establish a state, and though there was great violence during the rebellion, he was always focused on conducting himself as a French Gentleman.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

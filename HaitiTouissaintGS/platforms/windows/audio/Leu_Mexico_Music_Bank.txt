@@ -1,0 +1,39 @@
+Event	ID	Name			Wwise Object Path	Notes
+	182642590	Start_Music_Leu_Mexico			\Mexico_Music\Mexico_Music\Start_Music_Leu_Mexico	LEU_MEXICO
+	1094588140	Stop_Music_Leu_Mexico			\Mexico_Music\Mexico_Music\Stop_Music_Leu_Mexico	
+	1198882799	Resume_Leader_Music_Leu_Mexico			\Mexico_Music\Mexico_Music\Resume_Leader_Music_Leu_Mexico	
+	1245455386	Stop_Leader_Music_Leu_Mexico			\Mexico_Music\Mexico_Music\Stop_Leader_Music_Leu_Mexico	
+	1998620546	Pause_Leader_Music_Leu_Mexico			\Mexico_Music\Mexico_Music\Pause_Leader_Music_Leu_Mexico	
+	2756264484	Pause_Music_Leu_Mexico			\Mexico_Music\Mexico_Music\Pause_Music_Leu_Mexico	
+	3100915035	Resume_Music_Leu_Mexico			\Mexico_Music\Mexico_Music\Resume_Music_Leu_Mexico	
+	3359758358	Play_Music_Leu_Mexico			\Mexico_Music\Mexico_Music\Play_Music_Leu_Mexico	
+	3801966344	Play_Leader_Music_Leu_Mexico			\Mexico_Music\Mexico_Music\Play_Leader_Music_Leu_Mexico	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3441926412	Game_Views			\Default Work Unit\Game_Views	
+
+State	ID	Name	State Group			Notes
+	138330285	LENS	Game_Views			
+	319258907	PAUSED	Game_Views			
+	706390200	NORMAL_VIEW	Game_Views			
+	748895195	None	Game_Views			
+	2005704188	MAIN_MENU	Game_Views			
+	2664707777	LEADER_SCREEN	Game_Views			
+	4264815106	ENDGAME	Game_Views			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	302785445	MAIN_MENU	Game_Views	\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music		
+	567498062	LEADER_SCREEN	Game_Views	\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music		
+	780082195	ENDGAME	Game_Views	\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	352703682	Mexico_Cultural_3	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Music\.cache\Windows\SFX\Mexico_Cultural_3_EE79F7FB.wem		\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music\Leu_Mexico_Cultural_Themes\ANCIENT_ERA\Mexico_Cultural_3\Mexico_Cultural_3		1449343
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	44942316	Mexico_Medieval	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Music\.cache\Windows\SFX\Mexico_Medieval_EE79F7FB.wem	44942316.wem	\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music\Leu_Mexico_Cultural_Themes\INDUSTRIAL_ERA\Mexico_Medieval\Mexico_Medieval	
+	89601266	Mexico_Cultural_4	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Music\.cache\Windows\SFX\Mexico_Cultural_4_EE79F7FB.wem	89601266.wem	\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music\Leu_Mexico_Cultural_Themes\ANCIENT_ERA\Mexico_Cultural_4\Mexico_Cultural_4	
+	98122773	Mexico_Cultural_1	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Music\.cache\Windows\SFX\Mexico_Cultural_1_EE79F7FB.wem	98122773.wem	\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music\Leu_Mexico_Cultural_Themes\ANCIENT_ERA\Mexico_Cultural_1\Mexico_Cultural_1	
+	518768166	Mexico_Ancient	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Music\.cache\Windows\SFX\Mexico_Ancient_EE79F7FB.wem	518768166.wem	\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music\Leu_Mexico_Cultural_Themes\ANCIENT_ERA\Mexico_Ancient\Mexico_Ancient	
+	689136821	Mexico_Cultural_2	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Music\.cache\Windows\SFX\Mexico_Cultural_2_EE79F7FB.wem	689136821.wem	\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music\Leu_Mexico_Cultural_Themes\ANCIENT_ERA\Mexico_Cultural_2\Mexico_Cultural_2	
+	803803085	Mexico_Industrial	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Music\.cache\Windows\SFX\Mexico_Industrial_EE79F7FB.wem	803803085.wem	\Interactive Music Hierarchy\MexicoMusic\Game_Music_Master\Game_Music_Playlist\Leu_Mexico\Leu_Mexico_Music\Leu_Mexico_Cultural_Themes\INDUSTRIAL_ERA\Mexico_Industrial\Mexico_Industrial	
+

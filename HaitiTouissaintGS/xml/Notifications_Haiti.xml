@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameInfo_Haiti -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 11/2/2018 12:51:51 PM -->
+<GameData>
+	<LocalizedText>
+		<!--Era Score from Abolition-->
+		<Row Tag="LOC_STATUS_HAITI_TRAIT" Language="en_US">
+			<Text>Inspired by the new Era and the ideals of Liberty, you have acquired [COLOR_FLOAT_GOLD]{1_policycount} New [icon_policy] Policies[ENDCOLOR]!</Text>
+		</Row>
+		<!--Era Score from Abolition-->
+		<Row Tag="LOC_STATUS_HAITI_ABOLITION" Language="en_US">
+			<Text>Freeing {1_unitcount} Builders through Abolition has brought you greatness, increasing your [ICON_GLORY_GOLDEN_AGE] Era Score by [COLOR_FLOAT_GOLD]{2_iEraScore}[ENDCOLOR]!</Text>
+		</Row>
+		<!--Faith from Era Score-->
+		<Row Tag="LOC_STATUS_HAITI_ERA_FAITH_DARK_AGE" Language="en_US">
+			<Text>Increasing your Era Score in these dark times has granted your people hope, yielding [COLOR_FLOAT_FAITH] {1_Faith} [ICON_FAITH] Faith[ENDCOLOR]!</Text>	
+		</Row>
+		<!--Faith from Era Score-->
+		<Row Tag="LOC_STATUS_HAITI_ERA_FAITH" Language="en_US">
+			<Text>Increasing your Era Score has granted your people hope in the future, yielding [COLOR_FLOAT_FAITH] {1_Faith} [ICON_FAITH] Faith[ENDCOLOR]!</Text>
+		</Row>
+		<!--Floats-->
+		<Row Tag="LOC_FLOAT_HAITI_ERA_SCORE" Language="en_US">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} Era Score![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_FLOAT_HAITI_FREE_BUILDER" Language="en_US">
+			<Text>[COLOR_FLOAT_FOOD]+1 Free Builder![ENDCOLOR]</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

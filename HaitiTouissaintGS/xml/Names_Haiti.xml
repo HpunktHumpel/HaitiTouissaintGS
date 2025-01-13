@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_01" Language="en_US">					<Text>Port-au-Prince</Text></Row>	
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_02" Language="en_US">					<Text>Carrefour</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_03" Language="en_US">					<Text>Delmas</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_04" Language="en_US">					<Text>Pétion-Ville</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_05" Language="en_US">					<Text>Gonaïves</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_06" Language="en_US">					<Text>Cap-Haïtien</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_07" Language="en_US">					<Text>Saint-Marc</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_08" Language="en_US">					<Text>Cité-Soleil</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_09" Language="en_US">					<Text>Croix-des-Bouquets</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_10" Language="en_US">					<Text>Port-de-Paix</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_11" Language="en_US">					<Text>Léogâne</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_12" Language="en_US">					<Text>Jacmel</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_13" Language="en_US">					<Text>Dessalines</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_14" Language="en_US">					<Text>Petit-Goâve</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_15" Language="en_US">					<Text>Petite Rivière de l'Artibonite</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_16" Language="en_US">					<Text>Gros-Morne</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_17" Language="en_US">					<Text>Les Cayes</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_18" Language="en_US">					<Text>Saint-Michel-de-l'Atalaye</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_19" Language="en_US">					<Text>Jean-Rabel</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_20" Language="en_US">					<Text>Verrettes</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_21" Language="en_US">					<Text>Grand-Goâve</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_22" Language="en_US">					<Text>Jérémie</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_23" Language="en_US">					<Text>Arcahaie</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_24" Language="en_US">					<Text>Tabarre</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_25" Language="en_US">					<Text>Hinche</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_26" Language="en_US">					<Text>Saint-Louis-du-Nord</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_27" Language="en_US">					<Text>Ouanaminthe</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_28" Language="en_US">					<Text>Aquin</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_29" Language="en_US">					<Text>Mirebalais</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_30" Language="en_US">					<Text>Bainet</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_31" Language="en_US">					<Text>Belladère</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_32" Language="en_US">					<Text>Limbè</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_33" Language="en_US">					<Text>Torbeck</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_34" Language="en_US">					<Text>Belle-Anse</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_35" Language="en_US">					<Text>Marigot</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_36" Language="en_US">					<Text>Plaisance</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_37" Language="en_US">					<Text>Cabaret</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_38" Language="en_US">					<Text>Borgne</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_39" Language="en_US">					<Text>Saint-Louis-du-Sud</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_40" Language="en_US">					<Text>Bassin-Bleu</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_41" Language="en_US">					<Text>Thomassique</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_42" Language="en_US">					<Text>Anse-à-Galets</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_43" Language="en_US">					<Text>Ganthier</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_44" Language="en_US">					<Text>Miragoâne</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_45" Language="en_US">					<Text>Thomonde</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_46" Language="en_US">					<Text>Cornillon</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_47" Language="en_US">					<Text>Maïssade</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_48" Language="en_US">					<Text>Kenscoff</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_49" Language="en_US">					<Text>Cerca-la-Source</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_50" Language="en_US">					<Text>Boucan-Carré</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_51" Language="en_US">					<Text>Acull-du-Nord</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_52" Language="en_US">					<Text>Limonade</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_53" Language="en_US">					<Text>Pilate</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_54" Language="en_US">					<Text>Thomazeau</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_55" Language="en_US">					<Text>Ennery</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_56" Language="en_US">					<Text>Fonds-Verrettes</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_57" Language="en_US">					<Text>Port-Margot</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_58" Language="en_US">					<Text>Côtes-de-Fer</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_59" Language="en_US">					<Text>Trou-du-Nord</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_60" Language="en_US">					<Text>Cavaellon</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_61" Language="en_US">					<Text>Lascahobas</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_62" Language="en_US">					<Text>L'Estère</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_63" Language="en_US">					<Text>Camp-Perrin</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_64" Language="en_US">					<Text>Pestel</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_65" Language="en_US">					<Text>Anse-Rouge</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_66" Language="en_US">					<Text>Pignon</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_67" Language="en_US">					<Text>Grande-Rivière-du-Nord</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_68" Language="en_US">					<Text>Plaine-du-Nord</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_69" Language="en_US">					<Text>Baradères</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_70" Language="en_US">					<Text>L'Asile</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_71" Language="en_US">					<Text>Cayes-Jacmel</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_72" Language="en_US">					<Text>Saut-d'Eau</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_73" Language="en_US">					<Text>Île de la Tortue</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_74" Language="en_US">					<Text>Dame-Marie</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_75" Language="en_US">					<Text>Marmelade</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_76" Language="en_US">					<Text>Abricots</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_77" Language="en_US">					<Text>Desdunes</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_78" Language="en_US">					<Text>Gressier</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_79" Language="en_US">					<Text>La Vallée-de-Jacmel</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_80" Language="en_US">					<Text>Anse-d'Hainault</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_81" Language="en_US">					<Text>Savanette</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_82" Language="en_US">					<Text>Bombardopolis</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_83" Language="en_US">					<Text>Roseaux</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_84" Language="en_US">					<Text>Thiotte</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_85" Language="en_US">					<Text>Mombin-Crochu</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_86" Language="en_US">					<Text>Anse-à-Veau</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_87" Language="en_US">					<Text>Dondon</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_88" Language="en_US">					<Text>Fort-Liberté</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_89" Language="en_US">					<Text>Chantal</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_90" Language="en_US">					<Text>Môle-Saint-Nicolas</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_91" Language="en_US">					<Text>Fonds-des-Nègres</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_92" Language="en_US">					<Text>Milot</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_93" Language="en_US">					<Text>Beaumont</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_94" Language="en_US">					<Text>Le Chapelle</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_95" Language="en_US">					<Text>Terre-Neuve</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_96" Language="en_US">					<Text>Moron</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_97" Language="en_US">					<Text>Chansolme</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_98" Language="en_US">					<Text>Terrier-Rouge</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_HAITI_99" Language="en_US">					<Text>Anse-à-Foleur</Text></Row>
+		
+		<!--Early Male Citizens-->
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_1" Language="en_US">				<Text>Andre</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_2" Language="en_US">				<Text>Auguste</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_3" Language="en_US">				<Text>Benedicte</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_4" Language="en_US">				<Text>Edouard</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_5" Language="en_US">				<Text>Erasme</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_6" Language="en_US">				<Text>Etienne</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_7" Language="en_US">				<Text>Guillaume</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_8" Language="en_US">				<Text>Gustave</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_9" Language="en_US">				<Text>Noel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MALE_10" Language="en_US">				<Text>Phillipe</Text></Row>
+		<!--Early Female Citizens-->
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_1" Language="en_US">				<Text>Adelaide</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_2" Language="en_US">				<Text>Agata</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_3" Language="en_US">				<Text>Babet</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_4" Language="en_US">				<Text>Carmelite</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_5" Language="en_US">				<Text>Cecile</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_6" Language="en_US">				<Text>Charlotte</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_7" Language="en_US">				<Text>Dominique</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_8" Language="en_US">				<Text>Estelle</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_9" Language="en_US">				<Text>Genevieve</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_FEMALE_10" Language="en_US">			<Text>Heloise</Text></Row>
+		<!--Modern Male Citizens-->
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_1" Language="en_US">		<Text>Stanley</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_2" Language="en_US">		<Text>Wilson</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_3" Language="en_US">		<Text>Evens</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_4" Language="en_US">		<Text>Emmanuel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_5" Language="en_US">		<Text>Wilguens</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_6" Language="en_US">		<Text>James</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_7" Language="en_US">		<Text>Kervens</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_8" Language="en_US">		<Text>Anel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_9" Language="en_US">		<Text>Josué</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_MALE_10" Language="en_US">		<Text>Frantz</Text></Row>
+		<!--Modern Female Citizens-->
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_1" Language="en_US">		<Text>Widelene</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_2" Language="en_US">		<Text>Myrlande</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_3" Language="en_US">		<Text>Lovelie</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_4" Language="en_US">		<Text>Judeline</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_5" Language="en_US">		<Text>Jessica</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_6" Language="en_US">		<Text>Madeline</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_7" Language="en_US">		<Text>Medjine</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_8" Language="en_US">		<Text>Nephtalie</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_9" Language="en_US">		<Text>Mardochée</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_10" Language="en_US">		<Text>Lourdes</Text></Row>
+
+		<!--JFD Politician Names-->
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_01" Language="en_US">				<Text>Madame</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_02" Language="en_US">				<Text>Ambroise</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_03" Language="en_US">				<Text>Sanité</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_04" Language="en_US">				<Text>Dutty</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_05" Language="en_US">				<Text>Pauline</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_06" Language="en_US">				<Text>Félicité</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_07" Language="en_US">				<Text>François</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_08" Language="en_US">				<Text>Victoire</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_09" Language="en_US">				<Text>Étienne</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_10" Language="en_US">				<Text>Jean</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_11" Language="en_US">				<Text>Clairvius</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_12" Language="en_US">				<Text>Charlemagne</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_13" Language="en_US">				<Text>Madeleine</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_14" Language="en_US">				<Text>Guy</Text></Row>
+		<Row Tag="LOC_POLITICIAN_LEU_HAITI_15" Language="en_US">				<Text>Luckner</Text></Row>
+		
+		<!--JFD Government Titles-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_HAITI" Language="en_US">							<Text>Houngan</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">				<Text>Mambo</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_LEU_HAITI" Language="en_US">							<Text>Maroon Captain</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">					<Text>Maroon Captain</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_LEU_HAITI" Language="en_US">							<Text>Governor</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">					<Text>Governor</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_HAITI" Language="en_US">						<Text>Governor-General</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">				<Text>Governor-General</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_HAITI" Language="en_US">				<Text>Free Man</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">		<Text>Free Woman</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_HAITI" Language="en_US">						<Text>Affranchi</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">				<Text>Affranchi</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_HAITI" Language="en_US">				<Text>Admiral</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">		<Text>Admiral</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_HAITI" Language="en_US">							<Text>Emperor</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">				<Text>Her Serenne Highness</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_HAITI" Language="en_US">					<Text>Duke</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">			<Text>Lady Knight</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_HAITI" Language="en_US">					<Text>Comrade</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">		<Text>Comrade</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_HAITI" Language="en_US">				<Text>President</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">		<Text>President</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_HAITI" Language="en_US">			<Text>General</Text></Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_HAITI_FEMININE" Language="en_US">	<Text>General</Text></Row>		
+	</LocalizedText>
+</GameData>

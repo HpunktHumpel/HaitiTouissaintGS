@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DistrictText_Citadelle -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 11/2/2018 1:42:50 PM -->
+<GameData>
+	<LocalizedText>
+		<!--Belief Loa-->
+		<Row Tag="LOC_BELIEF_LEU_LOA_NAME" Language="en_US">
+			<Text>Servants of the Loa</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LEU_LOA_DESCRIPTION" Language="en_US">
+			<Text>+2% [ICON_CULTURE] Culture for each follower.</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="LOC_PEDIA_BELIEFS_PAGE_BELIEF_LEU_LOA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The French encountered many forms of slave resistance during the 17th and 18th centuries. The African slaves who fled to remote mountainous areas were called marron (French) or mawon (Haitian Creole), meaning "escaped slave". The maroons formed close-knit communities that practised small-scale agriculture and hunting. They were known to return to plantations to free family members and friends. On a few occasions they also joined the Taíno settlements, who had escaped the Spanish in the 17th century. Certain maroon factions became so formidable that they made treaties with local colonial authorities, sometimes negotiating their own independence in exchange for helping to hunt down other escaped slaves. Other slave resistance efforts against the French plantation system were more direct. The maroon leader Mackandal led a movement to poison the drinking water of the plantation owners in the 1750s. Boukman declared war on the French plantation owners in 1791, sparking off the Haitian Revolution. A statue called the Le Nègre Marron or the Nèg Mawon is an iconic bronze bust that was erected in the heart of Port-au-Prince to commemorate the role of maroons in Haitian independence.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

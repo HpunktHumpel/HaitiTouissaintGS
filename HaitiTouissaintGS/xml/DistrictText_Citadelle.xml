@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DistrictText_Citadelle -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 11/2/2018 1:42:50 PM -->
+<GameData>
+	<LocalizedText>
+		<!--District Citadelle-->
+		<Row Tag="LOC_DISTRICT_LEU_CITADELLE_NAME" Language="en_US">
+			<Text>Citadelle</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LEU_CITADELLE_DESCRIPTION" Language="en_US">
+			<Text>Unique Haitian replacement for the Encampment District. The Citadelle may only be built on Hills and Cliffs, but it provides a standard [ICON_Culture] Culture Adjacency Bonus from Coast Tiles, Harbors and Luxury Resources. They also unlock the "Abolition" Project which provides [ICON_CULTURE] Culture and grants +1 [ICON_GLORY_GOLDEN_AGE] Era Score from removing Builders withing the city's territory (+1 for every Builder Charge expended)</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CITADELLE_COAST_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Coast {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CITADELLE_HARBOR_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Harbor district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CITADELLE_LUXURY_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Luxury Resource {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<!--Project Abolition-->
+		<Row Tag="LOC_PROJECT_LEU_ABOLITION_NAME" Language="en_US">
+			<Text>Abolition</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LEU_ABOLITION_SHORTNAME" Language="en_US">
+			<Text>Abolition</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LEU_ABOLITION_DESCRIPTION" Language="en_US">
+			<Text>District-based project which increases [icon_culture] Culture every turn and upon completion expends all Builders within the city, granting [ICON_GLORY_GOLDEN_AGE] Era Score from every Builder Charge expended.</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_LEU_CITADELLE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>All around Haiti are steep hills and mountains, at the top of which are historic Citadelles(Forts) that once defended the city both during and after the slave rebellion. Five forts in total, along with several historic sites and statues throughout the town, make Dessalines a living, breathing memorial to Jean-Jacques and the revolution. Each of the forts are now historic sites, still located on the mountaintops which guaranteed the security of the old imperial city and in the time after the revolution, the forts were also residences of famous figures in the history of Haiti. Together, this ring of fortifications demonstrate not only how seriously the new nation of Haiti took the threat of a French return, but also how thoroughly planned and formidable their fortifications would become. Although now historic sites and ruins of a time past, the legacy of the slave rebellion lives on just as much in these reminders as they do the heart and soul of the nation’s people. The forts that now remain are an enduring part of the legend that began with Haitian people, and their motivating insistence that he was willing to destroy those same forts if he could not have freedom.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_LEU_HAITI_NAME" Language="en_US">
+			<Text>Haiti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LEU_HAITI_DESCRIPTION" Language="en_US">
+			<Text>Haitian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LEU_HAITI_ADJECTIVE" Language="en_US">
+			<Text>Haitian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LEU_HAITI_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Haitian Civilization</Text>
+		</Row>
+		<!--CIVILIZATION TRAIT-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEU_HAITI_NAME" Language="en_US">
+			<Text>Mother of Liberty</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEU_HAITI_DESCRIPTION" Language="en_US">
+			<Text>Upon entering a new Era, you unlock 4 of the [icon_policy] Policy Cards of the Era instantly, earning 4 additional [icon_policy] Policy Cards if you enter a Heroic Age. Earning [ICON_GLORY_GOLDEN_AGE] Era Score grants a burst of [Icon_Faith] Faith, increased during Dark Ages.</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_LEU_HAITI_LOCATION" Language="en_US">
+			<Text>Caribbean</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LEU_HAITI_POPULATION" Language="en_US">
+			<Text>10,995,182</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LEU_HAITI_SIZE" Language="en_US">
+			<Text>10,714 sq mi (27,750 sq km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LEU_HAITI_CAPITAL" Language="en_US">
+			<Text>Port-au-Prince</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Prior to European contact, Haiti (located on the western half of Hispaniola) was inhabited by the Taino peoples (who, get this, called the island ‘Haiti’. Okay fine, it was ‘Ayiti’ but close enough). The Taino peoples, who were related to other denizens of the Greater Antilles, were split up into several Caciquats, each lead by a Cacique. They were effectively tributary kingdoms, and a number of cave painting and Taino monuments have become symbols of Haiti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>At the time of Columbus’s arrival, the Haitian Caciques were under attack by the rival Carib peoples, and afterward, they were also attacked by European Epidemics (much like the majority of the New World at the time).To add even more insult to insult to injury, they were almost immediately forced to work in gold mines and plantations under the encomienda system. Though the Law of Burgos, passed in 1512, gave these indigenous peoples certain protections and very firmly endorsed their mass conversion to Catholicism (this is Spain, remember).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>As the island of Hispaniola served as the gateway to the new world, it was of course beset by pirates… of the Caribbean (also Tortuga is there, briefly serving as the capital of the island, and after and also briefly run by pirates who called themselves the Brethren of the Coast. The Spanish put a hard stop to that after procrastinating on it for fourteen years). Most of whom were French. Most notable of these swashbucklers was Bertrand D’Ogeron, who encouraged the planting of tobacco, sugar, indigo, and so forth. These French buccaneers tended to have French families who came along with them, and soon enough France and Spain were feuding over this island. Eventually, these hostilities were settled and divided the island between them - France receiving the western third that would become Haiti and naming it as Saint-Domingue (#JustCatholicThings) in 1659.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The French, who had just discovered from some aforementioned pirate that Saint-Domingue was the perfect place to mass farm sugar, imported thousands upon thousands of African slaves. These slaves maintained many ties to their original African religions, cultures, and language due to the constant influx of slaves from the homeland, and this began to meld together with the local Taino customs (with a touch of Spanish and French here and there). Blacks on the island now outnumbered whites by about ten to one.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Following the enaction and enforcement of the French Code Noir (also very ominously known as the Black Code), the island became one of the most profitable and successful in the French Colonial Empire. By this, I mean it was the most brutally efficient slave colonies, with one-third of newly imported slaves dying within a few years. This was considered a success, and the island was nicknamed the “Pearl of the Antilles”. The French colonial government, deciding that it’s a bad situation when slave women would abort their children rather than have them born into slavery, gave some rights and freed some slaves. However, by 1788 there were 25,000 Europeans, 22,000 free colored peoples, and 790,000 African slaves. After acquiring the Spanish side of the island (called Santo Domingo, just to make things confusing), the French continued to enact discriminatory laws, inflaming the colored population of the island. The French continued to see no possible way this could go badly.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Having begun to go badly, French settlers convened to decide what to do upon the outbreak of the French Revolution. After a year of debating on how these new laws would apply, free men of color claimed that they were also French citizens under the Declaration of the Rights of Man, and under a man named Vincent Ogé, a revolt broke out. This revolt was promptly defeated, as they refused to arm the slaves, and Ogé was executed in February of 1791.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Just six months later, slaves in Northern Saint-Domingue staged another revolt, starting at a Vodou ceremony. Within hours, many plantations were in flames, the instigator captured, and the rebellion very much not-stopped. The situation continued to get out of hand, and French control deteriorated rapidly - a man named Léger-Félicité Sonthonax was dispatched to restore order, and he immediately decided that the best way to do this was proclaiming the “freedom” of all the slaves (in reality this freedom was quite limited but good enough, right?) The slaves, not-quite happy with their not-quite freedom, fought against Sonthonax, and it is here where Toussaint L’Ouverture enters the picture. His corps of former slaves joined the French Republican side. Sonthonax, utterly incapable, was recalled to France but not before arming the ex-slaves.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>It is at this point the author of this civilopedia page assumes that every action was done in an effort to attain maximum chaos on the island.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>France, having declared war on Spain and England during its revolution, incited attacks on the revolting Island of Haiti, with L’Ouverture now declaring taking advantage of Sonthonax’s flight. Spanish forces attacked Santo Domingo, and L’Ouverture sent his men in as well. After outfoxing the British forces as well, he managed to assume total control of Hispaniola. Having successfully proclaimed the abolition of slavery, and yet not independence, Toussaint’s new land was attacked by Napoleon’s brother-in-law, Charles Leclerc, trying to bring Haiti back under the French boot. After several months of brutal stalemate, Toussaint and Leclerc agreed to meet… and Leclerc betrayed the agreement, captured Toussaint, and deported him back to France (where he unceremoniously died of pneumonia). Jean-Jacques Dessalines took control of the revolutionary army after this.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Yellow fever and malaria struck the invaders, and they suffered over 32,000 casualties on the island. Napoleon turned to acts of brutality - hangings, drownings, torturings, and even boilings in molasses. Each act incited even more brutal acts from the rebels, and it galvanized the rebellion until finally, Napoleon abandoned the new world and Haiti declared independence. As a final act of retribution, the remaining French colonists were wholesale slaughtered by the victorious Haitians (Funny story though - turns out the French brought in some Polish soldiers to help them, but the Poles sympathized with the Haitians as they too were seeking liberty from invading Russia, and thus betrayed the French. They were allowed to go free, and some were even granted Haitian Citizenship and settled on the island. Go figure.) Many governments refused to acknowledge the new country until many years later, and in exchange for large sums of money. This debt would not be fully repaid until 1947.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>After being a republic for less than a year, Dessalines decided he would prefer to be an emperor in the Napoleonic fashion. This lasted for all of two years until he was assassinated by two of his advisors - Henri Christophe and Alexandre Pétion. These two established two rival regimes, as they could not get along, and Haiti would remain divided for the next fourteen years. Christophe created an Authoritarian state in the north, and Pétion imposed quasi-feudalism in the south. And of course, Christophe proclaimed himself King Henri I, while Pétion became President for Life in the south. Santo Domingo broke off, and put itself under the control of Spain (and earned the nickname “España Boba” or “Dumbass Spain”). Pétion died of Yellow Fever, Christophe killed himself, and Pétion’s successor - Jean-Pierre Boyer - reunited the two Haitis and became President for Life.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>Santo Domingo (having spent twelve years moonlighting as Dumbass Spain), requested from Simón Bolívar inclusion in the Gran Colombia. Before anything could happen, Boyer occupied Santo Domingo and encountered no military resistance. The entire island remained under one government (and was also forced to pay a large indemnity to France), though Boyer’s occupation did cause trouble. Most soldiers had no intention of returning to labor, and soon enough Haiti stopped exporting sugar - using it all instead for rum.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>Having lost the revenue and gained debt, the new regime was very unstable and was overthrown in 1843. After parliamentary rule for a year (HAH), the country descended into chaos until General Faustin Soulouque became president (and then emperor), purged the military high command, established a secret police, and killed anyone he didn’t like. After several failed invasions of the Dominican Republic, he was cursed out by the mothers of dead soldiers and was deposed. A military government presided until 1867 when a moderately more constitutional government was instated, and things remained stable and prosperous, giving Haitian intellectual culture time to flourish. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>Haiti was hailed as a model of economic growth and success in Latin America until 1911 when they re-embraced their tradition of descending into utter chaos. After managing to kill six presidents in four years, revolutionary groups began to spring up in the mountains, while a German community began to wield great economic power in the cities. The United States assumed control of Haiti’s main bank, and after a four-month-long period of what can only generously be called a military dictatorship, the United States occupied Haiti at the behest of their banks. Under US occupation, the Haitian Constitution was rewritten (by none other than then-Under-Secretary for the Navy Franklin Delano Roosevelt) to effectively allow the US to colonize Haiti, and when the National Assembly refused to pass it, it was forcibly dissolved. The new constitution was passed by plebiscite in which less than one-twentieth of the population voted, on the grounds of the US considering 97% of Haitians to be too stupid to be allowed to vote.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>Though Haitians resented the fact that the United States forcibly rewrote their constitution and was being forced to work at the hands of white men (can’t imagine why they’d be upset about that), the occupation resulted in some modernization of the nation (and also a few revolts). This was all well and good (well, mostly) until the Great Depression when the tenuous gains made in the last ten years were decimated at the falling prices of Haiti’s agricultural exports. The US made some efforts to maintain order in Haiti but ultimately withdrew military forces from the island by 1934. The country actually managed to have a democratic election in 1930 and elected Sténio Vincent as president. As is tradition, Vicent attempted to gain absolute power and become president for life and forced a new constitution that granted him the power to dissolve the legislature at will. Needless to say, he also brutally repressed his opposition, censored the press, and governed to benefit himself and a cadre of rich men and corrupt military offices - run of the mill dictator things. For his efforts, he had to purge the army that attempted to coup him out of office, though he finally was forced to step down after the United States made it known that they would oppose him should he be reelected in 1941. Lescot was elected as an authoritarian president (albeit with votes bought by Rafael Trujillo, the Dominican Dictator) and declared war against the Axis government for political reasons.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_16" Language="en_US">
+			<Text>And Lescot was overthrown in 1946 when the Garde forced him to resign. The Military Junta lacked an understanding of how to transition into a civilian government but decided to try anyway, electing another National Assembly and president in 1946. President Estimé fell victim to elite intrigue and outsized ambition and was couped out of office in 1950. Paul Magloire took power after Estimé and eventually declared martial law, leading to the rise of François Duvalier, also known as “Papa Doc”.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_17" Language="en_US">
+			<Text>Duvalier earned a reputation as a humanitarian, but upon assuming power he established yet another dictatorship - this one being one of the most repressive and corrupt. Exploiting Vodou in order to strike fear into the hearts of the Haitian people, he also carried out political murders, beatings, tortures, and even political rape in order to silence his opponents. Rumors told that he conducted Vodou rituals in private and had sorcerous powers (this was in the 60’s, remember). His policies were aimed at ending the dominance of the elite but only managed to deepen Haiti’s problems. On his death in 1971, his 19-year-old son Jean-Claude Duvalier (“Baby Doc”) toned down his father’s more excessive policies, but also lead to a number of fraudulent schemes and embezzlement. After epidemics of Swine Fever, AIDS, and kleptocracy, and upon the visit of a none-too-pleased Pope John Paul II, Baby Doc was forced to step down in 1986.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_HAITI_CHAPTER_HISTORY_PARA_18" Language="en_US">
+			<Text>The Republic of Haiti has had a number of governments since the Duvalier era, with several periods of military rule in which large amounts of Haitians were killed. After a few more presidencies, Haiti was struck by an Earthquake and then a cholera outbreak in 2010, causing an enormous death toll and the leveling of the capital city: Port-au-Prince. A million Haitians were left homeless, hundreds of thousands left starving and impoverished, and loved ones were unable to identify the bodies of the dead. It was in this climate that Michel Martelly (Stage name “Sweet Micky”, which cannot do anything but inspire confidence in politics) was elected presidency, and launched a massive reconstruction and modernization program with an emphasis on foreign investment and tourism. Surprisingly, the Haitian economy was revitalized and tourism boomed, but Martelly has since stepped down in the aftermath of Hurricane Matthew. Jovenel Moise became the new president in 2017 and continues the effort to revitalize the Haitian industry, infrastructure, and economy.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DistrictText_Citadelle -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 11/2/2018 1:42:50 PM -->
+<GameData>
+	<LocalizedText>
+		<!--Unit Mawon-->
+		<Row Tag="LOC_UNIT_LEU_MAWON_NAME" Language="en_US">
+			<Text>Mawon</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LEU_MAWON_DESCRIPTION" Language="en_US">
+			<Text>Unique Haitian standalone land melee unit unlocked at the discovery of Colonialism. Mawon have a chance of liberating a Builder unit from defeating enemy military units. They also receive a major combat bonus during Dark Ages.</Text>
+		</Row>
+		
+		<!--Unit Mawon Dark Age Bonus-->
+		<Row Tag="LOC_ABILITY_LEU_MAWON_DARK_AGE_BONUS_NAME" Language="en_US">
+			<Text>Rebel Slave</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEU_MAWON_DARK_AGE_BONUS_DESCRIPTION" Language="en_US">
+			<Text>10 [ICON_STRENGTH] Combat Strength when fighting during a Dark Age.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEU_MAWON_DARK_AGE_BONUS_TEXT" Language="en_US">
+			<Text>+{1_Amount} Combat Strength during a Dark Age</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LEU_MAWON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The French encountered many forms of slave resistance during the 17th and 18th centuries. The African slaves who fled to remote mountainous areas were called marron (French) or mawon (Haitian Creole), meaning "escaped slave". The maroons formed close-knit communities that practised small-scale agriculture and hunting. They were known to return to plantations to free family members and friends. On a few occasions they also joined the Taíno settlements, who had escaped the Spanish in the 17th century. Certain maroon factions became so formidable that they made treaties with local colonial authorities, sometimes negotiating their own independence in exchange for helping to hunt down other escaped slaves. Other slave resistance efforts against the French plantation system were more direct. The maroon leader Mackandal led a movement to poison the drinking water of the plantation owners in the 1750s. Boukman declared war on the French plantation owners in 1791, sparking off the Haitian Revolution. A statue called the Le Nègre Marron or the Nèg Mawon is an iconic bronze bust that was erected in the heart of Port-au-Prince to commemorate the role of maroons in Haitian independence.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
