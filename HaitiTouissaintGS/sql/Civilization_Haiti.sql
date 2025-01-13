@@ -2,23 +2,23 @@
 -- CIVILIZATIONS
 --==========================================================================================================================
 -- Types
--------------------------------------	
-INSERT INTO Types	
+-------------------------------------
+INSERT INTO Types
 		(Type,							Kind)
 VALUES	('CIVILIZATION_LEU_HAITI',		'KIND_CIVILIZATION');
 
--------------------------------------			
--- Civilizations			
--------------------------------------				
-INSERT INTO Civilizations	 
+-------------------------------------
+-- Civilizations
+-------------------------------------
+INSERT INTO Civilizations
 		(CivilizationType,				Name,								Description,								Adjective,									StartingCivilizationLevelType,	RandomCityNameDepth,	Ethnicity)
-VALUES	('CIVILIZATION_LEU_HAITI',		'LOC_CIVILIZATION_LEU_HAITI_NAME',	'LOC_CIVILIZATION_LEU_HAITI_DESCRIPTION',	'LOC_CIVILIZATION_LEU_HAITI_ADJECTIVE',	'CIVILIZATION_LEVEL_FULL_CIV',		10,						'ETHNICITY_AFRICAN');	
-			
--------------------------------------			
--- CityNames			
--------------------------------------		
-INSERT INTO CityNames	
-			(CivilizationType,					CityName)	
+VALUES	('CIVILIZATION_LEU_HAITI',		'LOC_CIVILIZATION_LEU_HAITI_NAME',	'LOC_CIVILIZATION_LEU_HAITI_DESCRIPTION',	'LOC_CIVILIZATION_LEU_HAITI_ADJECTIVE',	'CIVILIZATION_LEVEL_FULL_CIV',		10,						'ETHNICITY_AFRICAN');
+
+-------------------------------------
+-- CityNames
+-------------------------------------
+INSERT INTO CityNames
+			(CivilizationType,					CityName)
 VALUES		('CIVILIZATION_LEU_HAITI',			'LOC_CITY_NAME_LEU_HAITI_01'), --Port-au-Prince (Default Capital)
 			('CIVILIZATION_LEU_HAITI',			'LOC_CITY_NAME_LEU_HAITI_02'),
 			('CIVILIZATION_LEU_HAITI',			'LOC_CITY_NAME_LEU_HAITI_03'),
@@ -119,10 +119,10 @@ VALUES		('CIVILIZATION_LEU_HAITI',			'LOC_CITY_NAME_LEU_HAITI_01'), --Port-au-Pr
 			('CIVILIZATION_LEU_HAITI',			'LOC_CITY_NAME_LEU_HAITI_98'),
 			('CIVILIZATION_LEU_HAITI',			'LOC_CITY_NAME_LEU_HAITI_99');
 
--------------------------------------	
+-------------------------------------
 -- CivilizationCitizenNames
--------------------------------------	
-INSERT INTO CivilizationCitizenNames	
+-------------------------------------
+INSERT INTO CivilizationCitizenNames
 		(CivilizationType,				CitizenName,								Female,		Modern)
 VALUES	('CIVILIZATION_LEU_HAITI',		'LOC_CITIZEN_LEU_HAITI_MALE_1',				0,			0),
 		('CIVILIZATION_LEU_HAITI',		'LOC_CITIZEN_LEU_HAITI_MALE_2',				0,			0),
@@ -163,56 +163,56 @@ VALUES	('CIVILIZATION_LEU_HAITI',		'LOC_CITIZEN_LEU_HAITI_MALE_1',				0,			0),
 		('CIVILIZATION_LEU_HAITI',		'LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_7',	1,			1),
 		('CIVILIZATION_LEU_HAITI',		'LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_8',	1,			1),
 		('CIVILIZATION_LEU_HAITI',		'LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_9',	1,			1),
-		('CIVILIZATION_LEU_HAITI',		'LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_10',	1,			1);	
+		('CIVILIZATION_LEU_HAITI',		'LOC_CITIZEN_LEU_HAITI_MODERN_FEMALE_10',	1,			1);
 
--------------------------------------	
+-------------------------------------
 -- StartBiasTerrains
--------------------------------------	
-INSERT INTO StartBiasTerrains	
+-------------------------------------
+INSERT INTO StartBiasTerrains
 		(CivilizationType,				TerrainType,				Tier)
 VALUES	('CIVILIZATION_LEU_HAITI',		'TERRAIN_COAST',			1),
 		('CIVILIZATION_LEU_HAITI',		'TERRAIN_GRASS_HILLS',		3);
 
 
--------------------------------------	
+-------------------------------------
 -- StartBiasFeatures
--------------------------------------	
-INSERT INTO StartBiasFeatures	
+-------------------------------------
+INSERT INTO StartBiasFeatures
 		(CivilizationType,				FeatureType,			Tier)
 VALUES	('CIVILIZATION_LEU_HAITI',		'FEATURE_REEF',			3);
 
--------------------------------------	
+-------------------------------------
 -- StartBiasResources
--------------------------------------	
---INSERT INTO StartBiasResources	
+-------------------------------------
+--INSERT INTO StartBiasResources
 --		(CivilizationType,				ResourceType,				Tier)
 --VALUES	('CIVILIZATION_LEU_HAITI',		'RESOURCE_COCOA',			3);
 
 
--------------------------------------	
+-------------------------------------
 -- StartBiasRivers
--------------------------------------	
+-------------------------------------
 --INSERT INTO StartBiasRivers
 --		(CivilizationType,				Tier)
 --VALUES	('CIVILIZATION_LEU_HAITI',		3);
 
 
--------------------------------------			
--- CivilizationInfo			
--------------------------------------			
-INSERT INTO CivilizationInfo	
-		(CivilizationType,				Header,						Caption,								SortIndex)	
-VALUES	('CIVILIZATION_LEU_HAITI',		'LOC_CIVINFO_LOCATION',		'LOC_CIVINFO_LEU_HAITI_LOCATION',		10),	
-		('CIVILIZATION_LEU_HAITI',		'LOC_CIVINFO_SIZE',			'LOC_CIVINFO_LEU_HAITI_SIZE',			20),	
-		('CIVILIZATION_LEU_HAITI',		'LOC_CIVINFO_POPULATION',	'LOC_CIVINFO_LEU_HAITI_POPULATION',	30),	
+-------------------------------------
+-- CivilizationInfo
+-------------------------------------
+INSERT INTO CivilizationInfo
+		(CivilizationType,				Header,						Caption,								SortIndex)
+VALUES	('CIVILIZATION_LEU_HAITI',		'LOC_CIVINFO_LOCATION',		'LOC_CIVINFO_LEU_HAITI_LOCATION',		10),
+		('CIVILIZATION_LEU_HAITI',		'LOC_CIVINFO_SIZE',			'LOC_CIVINFO_LEU_HAITI_SIZE',			20),
+		('CIVILIZATION_LEU_HAITI',		'LOC_CIVINFO_POPULATION',	'LOC_CIVINFO_LEU_HAITI_POPULATION',	30),
 		('CIVILIZATION_LEU_HAITI',		'LOC_CIVINFO_CAPITAL', 		'LOC_CIVINFO_LEU_HAITI_CAPITAL',		40);
 
 
 --==========================================================================================================================
 -- GEDEMON YNAEMP
 --==========================================================================================================================
--- StartPosition 
-------------------------------------------------------------	
+-- StartPosition
+------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS StartPosition (MapName TEXT, Civilization TEXT, Leader TEXT, X INT default 0, Y INT default 0);
 INSERT OR REPLACE INTO StartPosition
 		(Civilization,					MapName,					X,		Y)
@@ -225,35 +225,35 @@ VALUES	('CIVILIZATION_LEU_HAITI',		'GiantEarth',				154,	47),
 --==========================================================================================================================
 -- JFD RULE WITH FAITH
 --==========================================================================================================================
--- Civilization_Titles 
-------------------------------------------------------------	
-CREATE TABLE IF NOT EXISTS 
+-- Civilization_Titles
+------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS
 	Civilization_Titles (
 	CivilizationType  				text 		 		default null,
 	GovernmentType					text 	 			default null,
 	LeaderTitle						text				default null,
-	PolicyType  					text 		 		default null);	
+	PolicyType  					text 		 		default null);
 
 CREATE TRIGGER Haiti_JFDRwF_Check
 AFTER INSERT ON Governments
 WHEN NEW.GovernmentType = 'GOVERNMENT_JFD_NOBLE_REPUBLIC'
-BEGIN	
+BEGIN
 INSERT INTO Civilization_Titles
 		(CivilizationType, 			GovernmentType, 							PolicyType,				LeaderTitle)
-VALUES	('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_CHIEFDOM',						null,					'LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_HAITI'),				
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_HORDE',						null,					'LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_LEU_HAITI'),					
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_POLIS',						null,					'LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_LEU_HAITI'),					
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_AUTOCRACY',						null,					'LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_HAITI'),				
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_OLIGARCHY',						null,					'LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_HAITI'),				
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_CLASSICAL_REPUBLIC',			null,					'LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_HAITI'),	
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_MERCHANT_REPUBLIC',				null,					'LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_HAITI'),		
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_MONARCHY',						null,					'LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_HAITI'),				
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_ABSOLUTE_MONARCHY',			null,					'LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_HAITI'),				
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_CONSTITUTIONAL_MONARCHY',	null,					'LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_HAITI'),				
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_NOBLE_REPUBLIC',			null,					'LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_HAITI'),			
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_DEMOCRACY',						null,					'LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_HAITI'),		
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_COMMUNISM',						null,					'LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_HAITI'),		
-		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_FASCISM',						null,					'LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_HAITI');			
+VALUES	('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_CHIEFDOM',						null,					'LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_HORDE',						null,					'LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_POLIS',						null,					'LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_AUTOCRACY',						null,					'LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_OLIGARCHY',						null,					'LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_CLASSICAL_REPUBLIC',			null,					'LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_MERCHANT_REPUBLIC',				null,					'LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_MONARCHY',						null,					'LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_ABSOLUTE_MONARCHY',			null,					'LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_CONSTITUTIONAL_MONARCHY',	null,					'LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_JFD_NOBLE_REPUBLIC',			null,					'LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_DEMOCRACY',						null,					'LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_COMMUNISM',						null,					'LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_HAITI'),
+		('CIVILIZATION_LEU_HAITI',	'GOVERNMENT_FASCISM',						null,					'LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_HAITI');
 DELETE FROM Civilization_Titles WHERE CivilizationType = 'CIVILIZATION_LEU_HAITI' AND GovernmentType IS NOT null AND GovernmentType NOT IN (SELECT GovernmentType FROM Governments);
 DELETE FROM Civilization_Titles WHERE CivilizationType = 'CIVILIZATION_LEU_HAITI' AND PolicyType IS NOT null AND PolicyType NOT IN (SELECT PolicyType FROM Policies);
 
@@ -264,18 +264,18 @@ END;
 ------------------------------------------------------------
 --FirstMinisterType can be null. Otherwise, types are:
 -- JFD_FIRST_MINISTER_LAWGIVER
--- JFD_FIRST_MINISTER_ORACLE 
+-- JFD_FIRST_MINISTER_ORACLE
 -- JFD_FIRST_MINISTER_SOLDIER
--- JFD_FIRST_MINISTER_BURGHER 
--- JFD_FIRST_MINISTER_CLERIC 
+-- JFD_FIRST_MINISTER_BURGHER
+-- JFD_FIRST_MINISTER_CLERIC
 -- JFD_FIRST_MINISTER_NOBLE
--- JFD_FIRST_MINISTER_CONSERVATIVE 
+-- JFD_FIRST_MINISTER_CONSERVATIVE
 -- JFD_FIRST_MINISTER_LIBERAL
--- JFD_FIRST_MINISTER_MODERATE 
--- JFD_FIRST_MINISTER_NATIONALIST 
--- JFD_FIRST_MINISTER_NEO_LIBERAL 
--- JFD_FIRST_MINISTER_SOCIALIST 
-CREATE TABLE IF NOT EXISTS 
+-- JFD_FIRST_MINISTER_MODERATE
+-- JFD_FIRST_MINISTER_NATIONALIST
+-- JFD_FIRST_MINISTER_NEO_LIBERAL
+-- JFD_FIRST_MINISTER_SOCIALIST
+CREATE TABLE IF NOT EXISTS
 	CivilizationPoliticianNames (
 	CivilizationType  										text 		 																			default null,
 	PoliticianName											text 		 																			default null,
@@ -303,7 +303,7 @@ VALUES	('CIVILIZATION_LEU_HAITI',	'LOC_POLITICIAN_LEU_HAITI_01',		1),
 		('CIVILIZATION_LEU_HAITI',	'LOC_POLITICIAN_LEU_HAITI_13',		1),
 		('CIVILIZATION_LEU_HAITI',	'LOC_POLITICIAN_LEU_HAITI_14',		0),
 		('CIVILIZATION_LEU_HAITI',	'LOC_POLITICIAN_LEU_HAITI_15',		0);
-		
-		
+
+
 --==========================================================================================================================
 --==========================================================================================================================
