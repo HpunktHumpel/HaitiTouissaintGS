@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="9278a376-f3e7-4b82-9e23-73f4d646dc1b" version="1">
+<Mod id="9278a376-f3e7-4b82-9e23-73f4d646dc1b" version="2">
   <Properties>
     <Name>Leugi's [COLOR_FLOAT_CULTURE]Haiti Civilization[ENDCOLOR] and Touissaint Louverture [COLOR:ResCultureLabelCS](GS version)[ENDCOLOR]</Name>
     <Description>Adds the Haitian Civilization with Touissaint Louverture as its base leader! GS version.</Description>
@@ -46,7 +46,7 @@
       <Properties>
         <LoadOrder>50</LoadOrder>
       </Properties>
-      <File>Leugi_s_Haiti_Civilization.dep</File>
+      <File>HaitiTouissaintGS.dep</File>
     </UpdateArt>
   </FrontEndActions>
 
@@ -81,7 +81,7 @@
       <File>xml/BeliefText_Loa.xml</File>
     </UpdateText>
     <UpdateArt id="ART">
-      <File>Leugi_s_Haiti_Civilization.dep</File>
+      <File>HaitiTouissaintGS.dep</File>
     </UpdateArt>
 
     <AddGameplayScripts id="Scripts">

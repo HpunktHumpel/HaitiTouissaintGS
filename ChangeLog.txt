@@ -1,5 +1,10 @@
 13.01.2025
 
+===== Version 2 =====
+
+- Fixed: loading images and icons
+
+
 ===== Version 1 =====
 
 Initial release.
