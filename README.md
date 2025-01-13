@@ -8,9 +8,7 @@
 This is an updated version of [Leugi's Haiti Civilization and Touissaint Louverture](https://steamcommunity.com/sharedfiles/filedetails/?id=1562787583) mod.
 
 If you like the **Haiti Civilization** mod: please support the original creators : Leugi & Captain Lime.
-```
-**All credit to the original creators!**
-```
+> **All credit to the original creators!**
 
 Adds the Haiti Civilization with Toussaint Louverture as its leader for Civilization VI - Gathering Storm (and later).
 
@@ -48,6 +46,4 @@ Feel free to buy me a cup of tea on Ko-fi to help me stay awake 😉.
 [<img src="Ko-Fi-Humpel.png">](https://ko-fi.com/humpel)
 
 But again: please support the original creators : Leugi & Captain Lime.
-```
-**All credit to the original creators!**
-```
+> **All credit to the original creators!**
