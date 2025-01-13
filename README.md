@@ -37,7 +37,7 @@ For more detailed information about this mod please visit the Steam page of [the
 ---
 > If you like the **Haiti Civilization** mod: please support the original creators : Leugi & Captain Lime. **All credit to the original creators!**
 
-If you want to thank me for working on this update:
+If you want to appreciate the time and work I put into this update:
 Feel free to buy me a cup of tea on Ko-fi to help me stay awake 😉.
 
 [<img src="Ko-Fi-Humpel.png">](https://ko-fi.com/humpel)
