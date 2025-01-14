@@ -32,7 +32,7 @@ For more detailed information about this mod please visit the Steam page of [the
 
 ### Known problems
 - the icons (and their sounds) for notifications of type USER_DEFINED_X are not consistent and can even change during the game!
-- the ethnicity for the civilization is set to "ETHNICITY_AFRICAN" - just like in the original mod. This is working for the icons/avatars but not for the actual units on the ground. 
+- the ethnicity for the civilization is set to "ETHNICITY_AFRICAN" - just like in the original mod. Not sure why, but this is only working for the icons/avatars but not for the actual units on the ground. 
 
 ---
 > If you like the **Haiti Civilization** mod: please support the original creators : Leugi & Captain Lime. **All credit to the original creators!**
